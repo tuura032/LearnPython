@@ -1,3 +1,5 @@
+# Takes input of a credit card number, and if input is valid, determines if it is a valid credit number
+
 from cs50 import get_int
 
 # Prompt user for CC number
