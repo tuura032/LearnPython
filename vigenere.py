@@ -1,3 +1,5 @@
+# Program that encodes a message of any length by a single-word cipher inputted by the user.
+
 import sys
 from cs50 import get_string
 
