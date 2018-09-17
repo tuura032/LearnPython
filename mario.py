@@ -1,3 +1,6 @@
+# Prints a pyramid of blocks to the screen, not dissimalar from a pyramid climbed in a 2D Mario game.
+# The purpose of the program is to practice the differnces in loops between python and C
+
 from cs50 import get_int
 
 # Prompt user for blocks, 0-23
